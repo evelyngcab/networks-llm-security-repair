@@ -1,0 +1,8 @@
+venv/
+.env
+__pycache__/
+*.pyc
+vul4py/workspaces/
+# Vul4Py es una herramienta externa con su propio repositorio git:
+# se clona aparte (ver README), no se sube aquí.
+vul4py/
