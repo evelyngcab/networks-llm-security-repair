@@ -1,0 +1,6 @@
+Cases evaluated: 1
+LLM claimed success: 1
+Verified repairs: 1
+False assurances: 0
+VRR: 100.0%
+FAR: 0.0%
